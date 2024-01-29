@@ -1,0 +1,511 @@
+CRITICAL - 2024-01-24 07:00:19 --> Class "App\Models\Modelpelanggan" not found
+in APPPATH\Controllers\Pelanggan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\pelanggan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelanggan))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\web2\\Quiz2110003\\public\\index.php')
+CRITICAL - 2024-01-24 07:01:09 --> Invalid file: "pelanggan/view_pelanggan.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pelanggan/view_pelanggan.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pelanggan/view_pelanggan', [], true)
+ 3 APPPATH\Controllers\Pelanggan.php(14): view('pelanggan/view_pelanggan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\pelanggan->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelanggan))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\web2\\Quiz2110003\\public\\index.php')
+CRITICAL - 2024-01-24 07:06:52 --> Invalid file: "pelanggan/view_pelanggan.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pelanggan/view_pelanggan.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pelanggan/view_pelanggan', [], true)
+ 3 APPPATH\Controllers\Pelanggan.php(14): view('pelanggan/view_pelanggan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\pelanggan->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelanggan))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\web2\\Quiz2110003\\public\\index.php')
+CRITICAL - 2024-01-24 07:06:53 --> Invalid file: "pelanggan/view_pelanggan.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pelanggan/view_pelanggan.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pelanggan/view_pelanggan', [], true)
+ 3 APPPATH\Controllers\Pelanggan.php(14): view('pelanggan/view_pelanggan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\pelanggan->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelanggan))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\web2\\Quiz2110003\\public\\index.php')
+CRITICAL - 2024-01-24 07:06:54 --> Invalid file: "pelanggan/view_pelanggan.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pelanggan/view_pelanggan.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pelanggan/view_pelanggan', [], true)
+ 3 APPPATH\Controllers\Pelanggan.php(14): view('pelanggan/view_pelanggan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\pelanggan->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelanggan))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\web2\\Quiz2110003\\public\\index.php')
+CRITICAL - 2024-01-24 07:07:10 --> Invalid file: "pelanggan/view_pelanggan.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pelanggan/view_pelanggan.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pelanggan/view_pelanggan', [], true)
+ 3 APPPATH\Controllers\Pelanggan.php(14): view('pelanggan/view_pelanggan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\pelanggan->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelanggan))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\web2\\Quiz2110003\\public\\index.php')
+INFO - 2024-01-24 07:08:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 07:08:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 07:08:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 07:09:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 07:10:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-24 07:10:09 --> Undefined array key "jabatan"
+in APPPATH\Views\Pelanggan\view_pelanggan.php on line 54.
+ 1 APPPATH\Views\Pelanggan\view_pelanggan.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jabatan"', 'D:\\SEMESTER 5\\web2\\Quiz2110003\\app\\Views\\Pelanggan\\view_pelanggan.php', 54)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\SEMESTER 5\\web2\\Quiz2110003\\app\\Views\\Pelanggan\\view_pelanggan.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('pelanggan/view_pelanggan', [], true)
+ 5 APPPATH\Controllers\Pelanggan.php(14): view('pelanggan/view_pelanggan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\pelanggan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelanggan))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\web2\\Quiz2110003\\public\\index.php')
+INFO - 2024-01-24 07:11:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 07:12:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 07:13:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-01-24 07:13:43 --> mysqli_sql_exception: Unknown column 'id_pelanggan' in 'where clause' in D:\SEMESTER 5\web2\Quiz2110003\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\SEMESTER 5\web2\Quiz2110003\system\Database\MySQLi\Connection.php(306): mysqli->query('DELETE FROM `pe...', 0)
+#1 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `pe...')
+#2 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `pe...')
+#3 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query('DELETE FROM `pe...', Array, false)
+#4 D:\SEMESTER 5\web2\Quiz2110003\app\Models\ModelPelanggan.php(23): CodeIgniter\Database\BaseBuilder->delete(Array)
+#5 D:\SEMESTER 5\web2\Quiz2110003\app\Controllers\Pelanggan.php(34): App\Models\Modelpelanggan->deletepelanggan('P001')
+#6 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(919): App\Controllers\pelanggan->delete()
+#7 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelanggan))
+#8 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\SEMESTER 5\web2\Quiz2110003\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 D:\SEMESTER 5\web2\Quiz2110003\system\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\w...')
+#11 {main}
+CRITICAL - 2024-01-24 07:13:43 --> Unknown column 'id_pelanggan' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query('DELETE FROM `pelanggan2110003`
+WHERE `id_pelanggan` = :id_pelanggan:', [...], false)
+ 2 APPPATH\Models\ModelPelanggan.php(23): CodeIgniter\Database\BaseBuilder->delete([...])
+ 3 APPPATH\Controllers\Pelanggan.php(34): App\Models\Modelpelanggan->deletepelanggan('P001')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\pelanggan->delete()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelanggan))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\web2\\Quiz2110003\\public\\index.php')
+INFO - 2024-01-24 07:14:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 07:14:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 07:15:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 07:15:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 07:15:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-24 07:28:39 --> Invalid file: "tarif/view_tarif.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('tarif/view_tarif.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('tarif/view_tarif', [], true)
+ 3 APPPATH\Controllers\tarif.php(14): view('tarif/view_tarif', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\tarif->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\tarif))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\web2\\Quiz2110003\\public\\index.php')
+INFO - 2024-01-24 07:29:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-01-24 07:30:08 --> mysqli_sql_exception: Column 'idtarif' cannot be null in D:\SEMESTER 5\web2\Quiz2110003\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\SEMESTER 5\web2\Quiz2110003\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ta...', 0)
+#1 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ta...')
+#2 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ta...')
+#3 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ta...', Array, false)
+#4 D:\SEMESTER 5\web2\Quiz2110003\app\Models\ModelTarif.php(17): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\SEMESTER 5\web2\Quiz2110003\app\Controllers\tarif.php(27): App\Models\Modeltarif->savetarif(Array)
+#6 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(919): App\Controllers\tarif->save()
+#7 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\tarif))
+#8 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\SEMESTER 5\web2\Quiz2110003\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 D:\SEMESTER 5\web2\Quiz2110003\system\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\w...')
+#11 {main}
+CRITICAL - 2024-01-24 07:30:08 --> Column 'idtarif' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tarif2110003` (`idtarif`, `klass`, `tarif`) VALUES (:idtarif:, :klass:, :tarif:)', [...], false)
+ 2 APPPATH\Models\ModelTarif.php(17): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\tarif.php(27): App\Models\Modeltarif->savetarif([...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\tarif->save()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\tarif))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\web2\\Quiz2110003\\public\\index.php')
+ERROR - 2024-01-24 07:31:22 --> mysqli_sql_exception: Column 'idtarif' cannot be null in D:\SEMESTER 5\web2\Quiz2110003\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\SEMESTER 5\web2\Quiz2110003\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ta...', 0)
+#1 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ta...')
+#2 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ta...')
+#3 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ta...', Array, false)
+#4 D:\SEMESTER 5\web2\Quiz2110003\app\Models\ModelTarif.php(17): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\SEMESTER 5\web2\Quiz2110003\app\Controllers\tarif.php(27): App\Models\Modeltarif->savetarif(Array)
+#6 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(919): App\Controllers\tarif->save()
+#7 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\tarif))
+#8 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\SEMESTER 5\web2\Quiz2110003\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 D:\SEMESTER 5\web2\Quiz2110003\system\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\w...')
+#11 {main}
+CRITICAL - 2024-01-24 07:31:22 --> Column 'idtarif' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tarif2110003` (`idtarif`, `klass`, `tarif`) VALUES (:idtarif:, :klass:, :tarif:)', [...], false)
+ 2 APPPATH\Models\ModelTarif.php(17): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\tarif.php(27): App\Models\Modeltarif->savetarif([...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\tarif->save()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\tarif))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\web2\\Quiz2110003\\public\\index.php')
+ERROR - 2024-01-24 07:34:44 --> mysqli_sql_exception: Column 'idtarif' cannot be null in D:\SEMESTER 5\web2\Quiz2110003\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\SEMESTER 5\web2\Quiz2110003\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ta...', 0)
+#1 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ta...')
+#2 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ta...')
+#3 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ta...', Array, false)
+#4 D:\SEMESTER 5\web2\Quiz2110003\app\Models\ModelTarif.php(17): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\SEMESTER 5\web2\Quiz2110003\app\Controllers\tarif.php(27): App\Models\Modeltarif->savetarif(Array)
+#6 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(919): App\Controllers\tarif->save()
+#7 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\tarif))
+#8 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\SEMESTER 5\web2\Quiz2110003\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 D:\SEMESTER 5\web2\Quiz2110003\system\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\w...')
+#11 {main}
+CRITICAL - 2024-01-24 07:34:44 --> Column 'idtarif' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tarif2110003` (`idtarif`, `klass`, `tarif`) VALUES (:idtarif:, :klass:, :tarif:)', [...], false)
+ 2 APPPATH\Models\ModelTarif.php(17): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\tarif.php(27): App\Models\Modeltarif->savetarif([...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\tarif->save()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\tarif))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\web2\\Quiz2110003\\public\\index.php')
+ERROR - 2024-01-24 07:37:19 --> mysqli_sql_exception: Column 'idtarif' cannot be null in D:\SEMESTER 5\web2\Quiz2110003\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\SEMESTER 5\web2\Quiz2110003\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ta...', 0)
+#1 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ta...')
+#2 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ta...')
+#3 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ta...', Array, false)
+#4 D:\SEMESTER 5\web2\Quiz2110003\app\Models\ModelTarif.php(17): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\SEMESTER 5\web2\Quiz2110003\app\Controllers\tarif.php(27): App\Models\Modeltarif->savetarif(Array)
+#6 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(919): App\Controllers\tarif->save()
+#7 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\tarif))
+#8 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\SEMESTER 5\web2\Quiz2110003\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 D:\SEMESTER 5\web2\Quiz2110003\system\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\w...')
+#11 {main}
+CRITICAL - 2024-01-24 07:37:19 --> Column 'idtarif' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tarif2110003` (`idtarif`, `klass`, `tarif`) VALUES (:idtarif:, :klass:, :tarif:)', [...], false)
+ 2 APPPATH\Models\ModelTarif.php(17): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\tarif.php(27): App\Models\Modeltarif->savetarif([...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\tarif->save()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\tarif))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\web2\\Quiz2110003\\public\\index.php')
+INFO - 2024-01-24 07:39:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 07:40:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 07:57:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 08:06:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 08:07:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 08:07:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 08:08:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 08:13:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 08:14:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 08:16:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 08:17:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 08:17:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 08:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 08:22:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 08:23:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 08:25:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 08:26:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 08:26:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 08:26:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-01-24 08:26:52 --> mysqli_sql_exception: Unknown column 'idpelanggan' in 'field list' in D:\SEMESTER 5\web2\Quiz2110003\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\SEMESTER 5\web2\Quiz2110003\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `tr...', 0)
+#1 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tr...')
+#2 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tr...')
+#3 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tr...', Array, false)
+#4 D:\SEMESTER 5\web2\Quiz2110003\app\Models\ModelTransaksi.php(19): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\SEMESTER 5\web2\Quiz2110003\app\Controllers\transaksi.php(30): App\Models\Modeltransaksi->insertData(Array)
+#6 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(919): App\Controllers\transaksi->save()
+#7 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\transaksi))
+#8 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\SEMESTER 5\web2\Quiz2110003\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 D:\SEMESTER 5\web2\Quiz2110003\system\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\w...')
+#11 {main}
+CRITICAL - 2024-01-24 08:26:52 --> Unknown column 'idpelanggan' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `transaksi2110003` (`idtransaksi`, `idpelanggan`, `idharga`, `meterblnini`, `meterblnlalu`) VALUES (:idtransaksi:, :idpelanggan:, :idharga:, :meterblnini:, :meterblnlalu:)', [...], false)
+ 2 APPPATH\Models\ModelTransaksi.php(19): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\transaksi.php(30): App\Models\Modeltransaksi->insertData([...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\transaksi->save()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\transaksi))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\web2\\Quiz2110003\\public\\index.php')
+INFO - 2024-01-24 08:28:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 08:28:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 08:30:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 08:30:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 08:34:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-24 08:47:15 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\transaksi.php(13): CodeIgniter\Model->__call('getpelanggan', [])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\transaksi->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\transaksi))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\web2\\Quiz2110003\\public\\index.php')
+ERROR - 2024-01-24 08:51:43 --> mysqli_sql_exception: Table 'db_quizweb2110003.transaksi' doesn't exist in D:\SEMESTER 5\web2\Quiz2110003\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\SEMESTER 5\web2\Quiz2110003\system\Database\MySQLi\Connection.php(306): mysqli->query('select idtransa...', 0)
+#1 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select idtransa...')
+#2 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select idtransa...')
+#3 D:\SEMESTER 5\web2\Quiz2110003\app\Models\ModelTransaksi.php(11): CodeIgniter\Database\BaseConnection->query('select idtransa...')
+#4 D:\SEMESTER 5\web2\Quiz2110003\app\Controllers\transaksi.php(12): App\Models\Modeltransaksi->gettransaksi()
+#5 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(919): App\Controllers\transaksi->index()
+#6 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\transaksi))
+#7 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\SEMESTER 5\web2\Quiz2110003\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 D:\SEMESTER 5\web2\Quiz2110003\system\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\w...')
+#10 {main}
+CRITICAL - 2024-01-24 08:51:43 --> Table 'db_quizweb2110003.transaksi' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\ModelTransaksi.php(11): CodeIgniter\Database\BaseConnection->query('select idtransaksi,nama,tarif,meterbulanini,meterbulanlalu,tglbayar FROM transaksi JOIN pelanggan ON idpel=id JOIN tarif ON idharga=idtarif')
+ 2 APPPATH\Controllers\transaksi.php(12): App\Models\Modeltransaksi->gettransaksi()
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\transaksi->index()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\transaksi))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\web2\\Quiz2110003\\public\\index.php')
+CRITICAL - 2024-01-24 08:54:52 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\transaksi.php(13): CodeIgniter\Model->__call('getpelanggan', [])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\transaksi->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\transaksi))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\web2\\Quiz2110003\\public\\index.php')
+CRITICAL - 2024-01-24 08:56:37 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\transaksi.php(13): CodeIgniter\Model->__call('getpelanggan', [])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\transaksi->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\transaksi))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\web2\\Quiz2110003\\public\\index.php')
+CRITICAL - 2024-01-24 08:56:38 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\transaksi.php(13): CodeIgniter\Model->__call('getpelanggan', [])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\transaksi->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\transaksi))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\web2\\Quiz2110003\\public\\index.php')
+INFO - 2024-01-24 08:57:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 08:57:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 09:30:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-01-24 09:31:11 --> mysqli_sql_exception: Unknown column 'namapelanggan' in 'field list' in D:\SEMESTER 5\web2\Quiz2110003\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\SEMESTER 5\web2\Quiz2110003\system\Database\MySQLi\Connection.php(306): mysqli->query('select idtransa...', 0)
+#1 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select idtransa...')
+#2 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select idtransa...')
+#3 D:\SEMESTER 5\web2\Quiz2110003\app\Models\ModelTransaksi.php(11): CodeIgniter\Database\BaseConnection->query('select idtransa...')
+#4 D:\SEMESTER 5\web2\Quiz2110003\app\Controllers\transaksi.php(12): App\Models\Modeltransaksi->gettransaksi()
+#5 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(919): App\Controllers\transaksi->index()
+#6 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\transaksi))
+#7 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\SEMESTER 5\web2\Quiz2110003\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 D:\SEMESTER 5\web2\Quiz2110003\system\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\w...')
+#10 {main}
+CRITICAL - 2024-01-24 09:31:11 --> Unknown column 'namapelanggan' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\ModelTransaksi.php(11): CodeIgniter\Database\BaseConnection->query('select idtransaksi,namapelanggan,tarif,meterblnini,meterblnlalu,tglbayar FROM transaksi2110003 JOIN pelanggan2110003 ON idpelanggan=idpel JOIN tarif2110003 ON idharga=idtarif')
+ 2 APPPATH\Controllers\transaksi.php(12): App\Models\Modeltransaksi->gettransaksi()
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\transaksi->index()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\transaksi))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\web2\\Quiz2110003\\public\\index.php')
+INFO - 2024-01-24 09:31:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-01-24 09:31:48 --> mysqli_sql_exception: Unknown column 'namapelanggan' in 'field list' in D:\SEMESTER 5\web2\Quiz2110003\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\SEMESTER 5\web2\Quiz2110003\system\Database\MySQLi\Connection.php(306): mysqli->query('select idtransa...', 0)
+#1 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select idtransa...')
+#2 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select idtransa...')
+#3 D:\SEMESTER 5\web2\Quiz2110003\app\Models\ModelTransaksi.php(11): CodeIgniter\Database\BaseConnection->query('select idtransa...')
+#4 D:\SEMESTER 5\web2\Quiz2110003\app\Controllers\transaksi.php(12): App\Models\Modeltransaksi->gettransaksi()
+#5 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(919): App\Controllers\transaksi->index()
+#6 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\transaksi))
+#7 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\SEMESTER 5\web2\Quiz2110003\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 D:\SEMESTER 5\web2\Quiz2110003\system\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\w...')
+#10 {main}
+CRITICAL - 2024-01-24 09:31:48 --> Unknown column 'namapelanggan' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\ModelTransaksi.php(11): CodeIgniter\Database\BaseConnection->query('select idtransaksi,namapelanggan,tarif,meterblnini,meterblnlalu,tglbayar FROM transaksi2110003 JOIN pelanggan2110003 ON idpelanggan=idpel JOIN tarif2110003 ON idharga=idtarif')
+ 2 APPPATH\Controllers\transaksi.php(12): App\Models\Modeltransaksi->gettransaksi()
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\transaksi->index()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\transaksi))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\web2\\Quiz2110003\\public\\index.php')
+ERROR - 2024-01-24 09:32:10 --> mysqli_sql_exception: Unknown column 'idpelanggan' in 'on clause' in D:\SEMESTER 5\web2\Quiz2110003\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\SEMESTER 5\web2\Quiz2110003\system\Database\MySQLi\Connection.php(306): mysqli->query('select idtransa...', 0)
+#1 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select idtransa...')
+#2 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select idtransa...')
+#3 D:\SEMESTER 5\web2\Quiz2110003\app\Models\ModelTransaksi.php(11): CodeIgniter\Database\BaseConnection->query('select idtransa...')
+#4 D:\SEMESTER 5\web2\Quiz2110003\app\Controllers\transaksi.php(12): App\Models\Modeltransaksi->gettransaksi()
+#5 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(919): App\Controllers\transaksi->index()
+#6 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\transaksi))
+#7 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\SEMESTER 5\web2\Quiz2110003\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 D:\SEMESTER 5\web2\Quiz2110003\system\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\w...')
+#10 {main}
+CRITICAL - 2024-01-24 09:32:10 --> Unknown column 'idpelanggan' in 'on clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\ModelTransaksi.php(11): CodeIgniter\Database\BaseConnection->query('select idtransaksi,nama,tarif,meterblnini,meterblnlalu,tglbayar FROM transaksi2110003 JOIN pelanggan2110003 ON idpelanggan=idpel JOIN tarif2110003 ON idharga=idtarif')
+ 2 APPPATH\Controllers\transaksi.php(12): App\Models\Modeltransaksi->gettransaksi()
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\transaksi->index()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\transaksi))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\web2\\Quiz2110003\\public\\index.php')
+ERROR - 2024-01-24 09:32:11 --> mysqli_sql_exception: Unknown column 'idpelanggan' in 'on clause' in D:\SEMESTER 5\web2\Quiz2110003\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\SEMESTER 5\web2\Quiz2110003\system\Database\MySQLi\Connection.php(306): mysqli->query('select idtransa...', 0)
+#1 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select idtransa...')
+#2 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select idtransa...')
+#3 D:\SEMESTER 5\web2\Quiz2110003\app\Models\ModelTransaksi.php(11): CodeIgniter\Database\BaseConnection->query('select idtransa...')
+#4 D:\SEMESTER 5\web2\Quiz2110003\app\Controllers\transaksi.php(12): App\Models\Modeltransaksi->gettransaksi()
+#5 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(919): App\Controllers\transaksi->index()
+#6 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\transaksi))
+#7 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\SEMESTER 5\web2\Quiz2110003\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 D:\SEMESTER 5\web2\Quiz2110003\system\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\w...')
+#10 {main}
+CRITICAL - 2024-01-24 09:32:11 --> Unknown column 'idpelanggan' in 'on clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\ModelTransaksi.php(11): CodeIgniter\Database\BaseConnection->query('select idtransaksi,nama,tarif,meterblnini,meterblnlalu,tglbayar FROM transaksi2110003 JOIN pelanggan2110003 ON idpelanggan=idpel JOIN tarif2110003 ON idharga=idtarif')
+ 2 APPPATH\Controllers\transaksi.php(12): App\Models\Modeltransaksi->gettransaksi()
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\transaksi->index()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\transaksi))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\web2\\Quiz2110003\\public\\index.php')
+ERROR - 2024-01-24 09:33:24 --> mysqli_sql_exception: Column 'idpel' in on clause is ambiguous in D:\SEMESTER 5\web2\Quiz2110003\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\SEMESTER 5\web2\Quiz2110003\system\Database\MySQLi\Connection.php(306): mysqli->query('select idtransa...', 0)
+#1 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select idtransa...')
+#2 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select idtransa...')
+#3 D:\SEMESTER 5\web2\Quiz2110003\app\Models\ModelTransaksi.php(11): CodeIgniter\Database\BaseConnection->query('select idtransa...')
+#4 D:\SEMESTER 5\web2\Quiz2110003\app\Controllers\transaksi.php(12): App\Models\Modeltransaksi->gettransaksi()
+#5 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(919): App\Controllers\transaksi->index()
+#6 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\transaksi))
+#7 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\SEMESTER 5\web2\Quiz2110003\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 D:\SEMESTER 5\web2\Quiz2110003\system\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\w...')
+#10 {main}
+CRITICAL - 2024-01-24 09:33:24 --> Column 'idpel' in on clause is ambiguous
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\ModelTransaksi.php(11): CodeIgniter\Database\BaseConnection->query('select idtransaksi,nama,tarif,meterblnini,meterblnlalu,tglbayar FROM transaksi2110003 JOIN pelanggan2110003 ON idpel=idpel JOIN tarif2110003 ON idharga=idtarif')
+ 2 APPPATH\Controllers\transaksi.php(12): App\Models\Modeltransaksi->gettransaksi()
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\transaksi->index()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\transaksi))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\web2\\Quiz2110003\\public\\index.php')
+ERROR - 2024-01-24 09:33:26 --> mysqli_sql_exception: Column 'idpel' in on clause is ambiguous in D:\SEMESTER 5\web2\Quiz2110003\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\SEMESTER 5\web2\Quiz2110003\system\Database\MySQLi\Connection.php(306): mysqli->query('select idtransa...', 0)
+#1 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('select idtransa...')
+#2 D:\SEMESTER 5\web2\Quiz2110003\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('select idtransa...')
+#3 D:\SEMESTER 5\web2\Quiz2110003\app\Models\ModelTransaksi.php(11): CodeIgniter\Database\BaseConnection->query('select idtransa...')
+#4 D:\SEMESTER 5\web2\Quiz2110003\app\Controllers\transaksi.php(12): App\Models\Modeltransaksi->gettransaksi()
+#5 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(919): App\Controllers\transaksi->index()
+#6 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\transaksi))
+#7 D:\SEMESTER 5\web2\Quiz2110003\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\SEMESTER 5\web2\Quiz2110003\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 D:\SEMESTER 5\web2\Quiz2110003\system\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\w...')
+#10 {main}
+CRITICAL - 2024-01-24 09:33:26 --> Column 'idpel' in on clause is ambiguous
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 APPPATH\Models\ModelTransaksi.php(11): CodeIgniter\Database\BaseConnection->query('select idtransaksi,nama,tarif,meterblnini,meterblnlalu,tglbayar FROM transaksi2110003 JOIN pelanggan2110003 ON idpel=idpel JOIN tarif2110003 ON idharga=idtarif')
+ 2 APPPATH\Controllers\transaksi.php(12): App\Models\Modeltransaksi->gettransaksi()
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\transaksi->index()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\transaksi))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\web2\\Quiz2110003\\public\\index.php')
+CRITICAL - 2024-01-24 09:36:07 --> Undefined property: stdClass::$idpelanggan
+in APPPATH\Views\transaksi\v_transaksi.php on line 192.
+ 1 APPPATH\Views\transaksi\v_transaksi.php(192): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$idpelanggan', 'D:\\SEMESTER 5\\web2\\Quiz2110003\\app\\Views\\transaksi\\v_transaksi.php', 192)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\SEMESTER 5\\web2\\Quiz2110003\\app\\Views\\transaksi\\v_transaksi.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/v_transaksi', [], true)
+ 5 APPPATH\Controllers\transaksi.php(15): view('transaksi/v_transaksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\transaksi->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\web2\\Quiz2110003\\public\\index.php')
+CRITICAL - 2024-01-24 09:36:09 --> Undefined property: stdClass::$idpelanggan
+in APPPATH\Views\transaksi\v_transaksi.php on line 192.
+ 1 APPPATH\Views\transaksi\v_transaksi.php(192): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$idpelanggan', 'D:\\SEMESTER 5\\web2\\Quiz2110003\\app\\Views\\transaksi\\v_transaksi.php', 192)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\SEMESTER 5\\web2\\Quiz2110003\\app\\Views\\transaksi\\v_transaksi.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('transaksi/v_transaksi', [], true)
+ 5 APPPATH\Controllers\transaksi.php(15): view('transaksi/v_transaksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\transaksi->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\web2\\Quiz2110003\\public\\index.php')
+INFO - 2024-01-24 09:36:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 09:36:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 09:36:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 09:41:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-24 09:41:58 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH\Views\transaksi\v_laporanperperiode.php on line 30.
+ 1 APPPATH\Views\transaksi\v_laporanperperiode.php(30): strtotime(null)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\SEMESTER 5\\web2\\Quiz2110003\\app\\Views\\transaksi\\v_laporanperperiode.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/transaksi/v_laporanperperiode', [], true)
+ 5 APPPATH\Controllers\transaksi.php(96): view('/transaksi/v_laporanperperiode', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\transaksi->cetaklaporanperperiode()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\web2\\Quiz2110003\\public\\index.php')
+WARNING - 2024-01-24 09:41:58 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH\Views\transaksi\v_laporanperperiode.php on line 31.
+ 1 APPPATH\Views\transaksi\v_laporanperperiode.php(31): strtotime(null)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\SEMESTER 5\\web2\\Quiz2110003\\app\\Views\\transaksi\\v_laporanperperiode.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/transaksi/v_laporanperperiode', [], true)
+ 5 APPPATH\Controllers\transaksi.php(96): view('/transaksi/v_laporanperperiode', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\transaksi->cetaklaporanperperiode()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\transaksi))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\SEMESTER 5\\web2\\Quiz2110003\\public\\index.php')
+INFO - 2024-01-24 09:41:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
